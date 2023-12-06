@@ -1,4 +1,4 @@
-## TCP/IP 
+## TCP/ UDP
 
 <details> <summary>Q1.TCP 와 UDP 차이를 설명하시오.</summary>
 - (차이가 메우 극명함 TCP: 1:1 과외, UDP: 학교 수업)
