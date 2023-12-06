@@ -1,4 +1,4 @@
-##OSI 7 
+## OSI 7 
 
 <details>
 <summary>Q1. OSI7 계층에 대해서 설명하시오.</summary>
